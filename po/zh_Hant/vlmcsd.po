@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applications/luci-app-rustdesk-server/root/usr/share/luci/menu.d/luci-app-vlmcsd.json:3
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:23
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:33
+msgid "Vlmcsd KMS Server"
+msgstr "Vlmcsd KMS 伺服器"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:24
+msgid "RUNNING"
+msgstr "正在運行"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:24
+msgid "NOT RUNNING"
+msgstr "未運行"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:47
+msgid "Collecting data…"
+msgstr "正在收集數據中…"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:52
+msgid "General Settings"
+msgstr "一般設定"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:53
+msgid "Configuration File"
+msgstr "設定檔案"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:53
+msgid "Edit the content of the /etc/vlmcsd.ini file."
+msgstr "編輯 /etc/vlmcsd.ini 檔案的內容。"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:55
+msgid "Enable Vlmcsd Service"
+msgstr "啟用 Vlmcsd 服務"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:56
+msgid "Auto Activate"
+msgstr "自動啟動"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:57
+msgid "Allow Internet Access"
+msgstr "允許網際網路存取"
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:61
+msgid "This is the content of the file '/etc/vlmcsd.ini', you can edit it here, usually no modification is needed."
+msgstr "這是檔案 “/etc/vlmcsd.ini” 的內容，你可以在此處編輯，通常無需修改。"
+
+#: applications/luci-app-vlmcsd/root/usr/share/rpcd/acl.d/luci-app-vlmcsd.json:3
+msgid "Grant UCI access for luci-app-vlmcsd"
+msgstr "授予 luci-app-vlmcsd 對 UCI 的存取權限"

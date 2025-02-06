@@ -5,7 +5,7 @@ msgstr ""
 
 #: applications/luci-app-rustdesk-server/root/usr/share/luci/menu.d/luci-app-vlmcsd.json:3
 #: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:23
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:33
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:30
 msgid "Vlmcsd KMS Server"
 msgstr ""
 
@@ -17,35 +17,35 @@ msgstr ""
 msgid "NOT RUNNING"
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:47
-msgid "Collecting data…"
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:44
+msgid "Collecting data..."
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:52
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:49
 msgid "General Settings"
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:53
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:50
 msgid "Configuration File"
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:53
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:50
 msgid "Edit the content of the /etc/vlmcsd.ini file."
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:55
-msgid "Enable Vlmcsd Service"
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:52
+msgid "Enable Vlmcsd KMS Server"
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:56
-msgid "Auto Activate"
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:53
+msgid "Allow automatic activation"
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:57
-msgid "Allow Internet Access"
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:54
+msgid "Allow connection from Internet"
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:61
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:58
 msgid "This is the content of the file '/etc/vlmcsd.ini', you can edit it here, usually no modification is needed."
 msgstr ""
 

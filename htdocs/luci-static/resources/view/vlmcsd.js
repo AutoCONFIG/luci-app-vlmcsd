@@ -41,7 +41,7 @@ return view.extend({
 			});
 
 			return E('div', { class: 'cbi-section', id: 'status_bar' }, [
-				E('p', { id: 'vlmcsd_status' }, _('Collecting data...'))
+				E('p', { id: 'vlmcsd_status' }, _('Collecting data…'))
 			]);
 		};
 

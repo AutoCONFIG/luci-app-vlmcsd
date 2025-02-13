@@ -1,28 +1,16 @@
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+msgstr "Content-Type: text/plain; charset=UTF-8"
 
-#: applications/luci-app-rustdesk-server/root/usr/share/luci/menu.d/luci-app-vlmcsd.json:3
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:23
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:30
-msgid "Vlmcsd KMS Server"
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:53
+msgid "Allow automatic activation"
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:24
-msgid "RUNNING"
-msgstr ""
-
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:24
-msgid "NOT RUNNING"
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:54
+msgid "Allow connection from Internet"
 msgstr ""
 
 #: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:44
-msgid "Collecting data..."
-msgstr ""
-
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:49
-msgid "General Settings"
+msgid "Collecting data…"
 msgstr ""
 
 #: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:50
@@ -37,18 +25,30 @@ msgstr ""
 msgid "Enable Vlmcsd KMS Server"
 msgstr ""
 
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:53
-msgid "Allow automatic activation"
-msgstr ""
-
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:54
-msgid "Allow connection from Internet"
-msgstr ""
-
-#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:58
-msgid "This is the content of the file '/etc/vlmcsd.ini', you can edit it here, usually no modification is needed."
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:49
+msgid "General Settings"
 msgstr ""
 
 #: applications/luci-app-vlmcsd/root/usr/share/rpcd/acl.d/luci-app-vlmcsd.json:3
 msgid "Grant UCI access for luci-app-vlmcsd"
+msgstr ""
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:24
+msgid "NOT RUNNING"
+msgstr ""
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:24
+msgid "RUNNING"
+msgstr ""
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:58
+msgid ""
+"This is the content of the file '/etc/vlmcsd.ini', you can edit it here, "
+"usually no modification is needed."
+msgstr ""
+
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:23
+#: applications/luci-app-vlmcsd/htdocs/luci-static/resources/view/vlmcsd.js:30
+#: applications/luci-app-vlmcsd/root/usr/share/luci/menu.d/luci-app-vlmcsd.json:3
+msgid "Vlmcsd KMS Server"
 msgstr ""
